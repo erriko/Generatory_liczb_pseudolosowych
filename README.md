@@ -1,0 +1,1 @@
+# Generatory_liczb_pseudolosowych

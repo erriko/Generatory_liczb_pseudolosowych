@@ -1,5 +1,5 @@
-# Generatory liczb pseudolosowych
+# Pseudo-random number generators
 
-Projekt ten ma na celu lepsze zrozumienie zasad działania generatorów liczb losowych i pseudolosowych używanych w informatyce na co dzień oraz na przyjrzeniu się jednemu z popularnych generatorów PRN, algorytmowi Blum Blum Shub.
+This project aims to better understand the principles of random and pseudo-random number generators used in everyday computing and to look at one popular PRN generator, the Blum Blum Shub algorithm.
 
-Materiały są dostępne w Notebooku.
+Materials are available in the Notebook.
